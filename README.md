@@ -1,2 +1,2 @@
-# JavaFXTemplate
- Plantilla para proyectos JavaFX
+# BuscarReemplazar
+Interfaz gráfica sin funcionalidad.
